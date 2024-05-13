@@ -1,11 +1,11 @@
-# Phase locking and correlations in globus pallidus: Data and Code Repository
+# Phase locking and correlations in globus pallidus: data and code repository
 
 
-### Data and Code used for analysis, simulations and plots on the article:
+### Data and code used for analysis, simulations and plots in the article:
 
 * "Phase delays between mouse globus pallidus neurons entrained by common oscillatory drive arise from their intrinsic properties, not their coupling" *
 
-Erick O. Olivares, Charles J. Wilsonn and Joshua A. Goldberg
+Erick O. Olivares, Charles J. Wilson and Joshua A. Goldberg
 
 If you have any question please contact Erick Olivares erick.olivaresbravo@utsa.edu  erickolivaresb@gmail.com
 
